@@ -22,7 +22,7 @@ import android.util.AttributeSet;
 
 import com.android.settingslib.widget.MainSwitchPreference;
 
-import com.crdroid.settings.preferences.SystemSettingsStore;
+import com.afterlife.support.preferences.SystemSettingsStore;
 
 public class SystemSettingMainSwitchPreference extends MainSwitchPreference {
 
